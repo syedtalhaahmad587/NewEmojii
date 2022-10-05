@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+.reflected p {
+  background-color: yellow;
+  border: 2px solid yellow;
+  padding: 20px 20px;
+  border-radius: 5px;
+  margin: 32px auto;
+  
+}
+
+.container {
+  text-align: center  ;
+}
+
+.inputSet {
+  margin-top: 25px;
+}

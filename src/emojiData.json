@@ -1,0 +1,908 @@
+[
+    {
+     "name": "grinning face 😀",
+     "slug": "grinning_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+    {
+     "name": "grinning face with big eyes 😃",
+     "slug": "grinning_face_with_big_eyes",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+  {
+     "name": "grinning face with smiling eyes  😄",
+     "slug": "grinning_face_with_smiling_eyes",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "beaming face with smiling eyes 😁",
+     "slug": "beaming_face_with_smiling_eyes",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+    {
+     "name": "grinning squinting face 😆",
+     "slug": "grinning_squinting_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+    {
+     "name": "grinning face with sweat 😅",
+     "slug": "grinning_face_with_sweat",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+    {
+     "name": "rolling on the floor laughing 🤣",
+     "slug": "rolling_on_the_floor_laughing",
+     "group": "Smileys & Emotion",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with tears of joy 😂",
+     "slug": "face_with_tears_of_joy",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "slightly smiling face 🙂",
+     "slug": "slightly_smiling_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "upside-down face 🙃",
+     "slug": "upside_down_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "melting face 🫠",
+     "slug": "melting_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "14.0",
+     "unicode_version": "14.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "winking face 😉",
+     "slug": "winking_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "smiling face with smiling eyes 😊",
+     "slug": "smiling_face_with_smiling_eyes",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "smiling face with halo 😇",
+     "slug": "smiling_face_with_halo",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "smiling face with hearts 🥰",
+     "slug": "smiling_face_with_hearts",
+     "group": "Smileys & Emotion",
+     "emoji_version": "11.0",
+     "unicode_version": "11.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "smiling face with heart-eyes 😍",
+     "slug": "smiling_face_with_heart_eyes",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "star-struck 🤩",
+     "slug": "star_struck",
+     "group": "Smileys & Emotion",
+     "emoji_version": "5.0",
+     "unicode_version": "5.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face blowing a kiss 😘",
+     "slug": "face_blowing_a_kiss",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "kissing face 😗",
+     "slug": "kissing_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "smiling face ☺️",
+     "slug": "smiling_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "kissing face with closed eyes 😚",
+     "slug": "kissing_face_with_closed_eyes",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "kissing face with smiling eyes 😙",
+     "slug": "kissing_face_with_smiling_eyes",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "smiling face with tear 🥲",
+     "slug": "smiling_face_with_tear",
+     "group": "Smileys & Emotion",
+     "emoji_version": "13.0",
+     "unicode_version": "13.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face savoring food 😋",
+     "slug": "face_savoring_food",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with tongue 😛",
+     "slug": "face_with_tongue",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "winking face with tongue 😜",
+     "slug": "winking_face_with_tongue",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "zany face 🤪",
+     "slug": "zany_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "5.0",
+     "unicode_version": "5.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "squinting face with tongue 😝",
+     "slug": "squinting_face_with_tongue",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "money-mouth face 🤑",
+     "slug": "money_mouth_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "smiling face with open hands 🤗",
+     "slug": "smiling_face_with_open_hands",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with hand over mouth 🤭",
+     "slug": "face_with_hand_over_mouth",
+     "group": "Smileys & Emotion",
+     "emoji_version": "5.0",
+     "unicode_version": "5.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with open eyes and hand over mouth 🫢",
+     "slug": "face_with_open_eyes_and_hand_over_mouth",
+     "group": "Smileys & Emotion",
+     "emoji_version": "14.0",
+     "unicode_version": "14.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with peeking eye 🫣",
+     "slug": "face_with_peeking_eye",
+     "group": "Smileys & Emotion",
+     "emoji_version": "14.0",
+     "unicode_version": "14.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "shushing face 🤫",
+     "slug": "shushing_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "5.0",
+     "unicode_version": "5.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "thinking face 🤔",
+     "slug": "thinking_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+  
+   {
+     "name": "zipper-mouth face 🤐",
+     "slug": "zipper_mouth_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with raised eyebrow 🤨",
+     "slug": "face_with_raised_eyebrow",
+     "group": "Smileys & Emotion",
+     "emoji_version": "5.0",
+     "unicode_version": "5.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "neutral face 😐",
+     "slug": "neutral_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.7",
+     "unicode_version": "0.7",
+     "skin_tone_support": false
+   },
+   {
+     "name": "expressionless face 😑",
+     "slug": "expressionless_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face without mouth 😶",
+     "slug": "face_without_mouth",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "dotted line face 🫥",
+     "slug": "dotted_line_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "14.0",
+     "unicode_version": "14.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face in clouds 😶‍🌫️",
+     "slug": "face_in_clouds",
+     "group": "Smileys & Emotion",
+     "emoji_version": "13.1",
+     "unicode_version": "13.1",
+     "skin_tone_support": false
+   },
+   {
+     "name": "smirking face 😏",
+     "slug": "smirking_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "unamused face 😒",
+     "slug": "unamused_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with rolling eyes 🙄",
+     "slug": "face_with_rolling_eyes",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "grimacing face 😬",
+     "slug": "grimacing_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face exhaling 😮‍💨",
+     "slug": "face_exhaling",
+     "group": "Smileys & Emotion",
+     "emoji_version": "13.1",
+     "unicode_version": "13.1",
+     "skin_tone_support": false
+   },
+   {
+     "name": "lying face 🤥",
+     "slug": "lying_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "relieved face 😌",
+     "slug": "relieved_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "pensive face 😔",
+     "slug": "pensive_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "sleepy face 😪",
+     "slug": "sleepy_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "drooling face 🤤",
+     "slug": "drooling_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "sleeping face 😴",
+     "slug": "sleeping_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with medical mask 😷",
+     "slug": "face_with_medical_mask",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with thermometer 🤒",
+     "slug": "face_with_thermometer",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with head-bandage 🤕",
+     "slug": "face_with_head_bandage",
+     "group": "Smileys & Emotion",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "nauseated face 🤢",
+     "slug": "nauseated_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face vomiting 🤮",
+     "slug": "face_vomiting",
+     "group": "Smileys & Emotion",
+     "emoji_version": "5.0",
+     "unicode_version": "5.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "sneezing face 🤧",
+     "slug": "sneezing_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "hot face 🥵",
+     "slug": "hot_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "11.0",
+     "unicode_version": "11.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "cold face 🥶",
+     "slug": "cold_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "11.0",
+     "unicode_version": "11.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "woozy face 🥴",
+     "slug": "woozy_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "11.0",
+     "unicode_version": "11.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with crossed-out eyes 😵",
+     "slug": "face_with_crossed_out_eyes",
+     "group": "Smileys & Emotion",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": false
+   },
+   {
+     "name": "face with spiral eyes 😵‍💫",
+     "slug": "face_with_spiral_eyes",
+     "group": "Smileys & Emotion",
+     "emoji_version": "13.1",
+     "unicode_version": "13.1",
+     "skin_tone_support": false
+   },
+   {
+     "name": "exploding head 🤯",
+     "slug": "exploding_head",
+     "group": "Smileys & Emotion",
+     "emoji_version": "5.0",
+     "unicode_version": "5.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "cowboy hat face 🤠",
+     "slug": "cowboy_hat_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "partying face 🥳",
+     "slug": "partying_face",
+     "group": "Smileys & Emotion",
+     "emoji_version": "11.0",
+     "unicode_version": "11.0",
+     "skin_tone_support": false
+   },
+   
+   {
+     "name": "raised hand  ✋",
+     "slug": "raised_hand",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+   {
+     "name": "vulcan salute  🖖",
+     "slug": "vulcan_salute",
+     "group": "People & Body",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+  
+   {
+     "name": "leftwards hand  🫲",
+     "slug": "leftwards_hand",
+     "group": "People & Body",
+     "emoji_version": "14.0",
+     "unicode_version": "14.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "14.0"
+   },
+   {
+     "name": "palm down hand  🫳",
+     "slug": "palm_down_hand",
+     "group": "People & Body",
+     "emoji_version": "14.0",
+     "unicode_version": "14.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "14.0"
+   },
+   {
+     "name": "palm up hand  🫴",
+     "slug": "palm_up_hand",
+     "group": "People & Body",
+     "emoji_version": "14.0",
+     "unicode_version": "14.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "14.0"
+   },
+  {
+     "name": "OK hand   👌",
+     "slug": "ok_hand",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+ {
+     "name": "pinched fingers   🤌",
+     "slug": "pinched_fingers",
+     "group": "People & Body",
+     "emoji_version": "13.0",
+     "unicode_version": "13.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "13.0"
+   },
+   {
+     "name": "pinching hand  🤏",
+     "slug": "pinching_hand",
+     "group": "People & Body",
+     "emoji_version": "12.0",
+     "unicode_version": "12.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "12.0"
+   },
+   {
+     "name": "victory hand  ✌️",
+     "slug": "victory_hand",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+   {
+     "name": "crossed fingers  🤞",
+     "slug": "crossed_fingers",
+     "group": "People & Body",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "3.0"
+   },
+  {
+     "name": "hand with index finger and thumb crossed  🫰",
+     "slug": "hand_with_index_finger_and_thumb_crossed",
+     "group": "People & Body",
+     "emoji_version": "14.0",
+     "unicode_version": "14.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "14.0"
+   },
+   {
+     "name": "love-you gesture  🤟",
+     "slug": "love_you_gesture",
+     "group": "People & Body",
+     "emoji_version": "5.0",
+     "unicode_version": "5.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "5.0"
+   },
+   {
+     "name": "sign of the horns  🤘",
+     "slug": "sign_of_the_horns",
+     "group": "People & Body",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+   {
+     "name": "call me hand 🤙",
+     "slug": "call_me_hand",
+     "group": "People & Body",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "3.0"
+   },
+  {
+     "name": "backhand index pointing left  👈",
+     "slug": "backhand_index_pointing_left",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+  {
+     "name": "backhand index pointing right  👉",
+     "slug": "backhand_index_pointing_right",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+   {
+     "name": "backhand index pointing up  👆",
+     "slug": "backhand_index_pointing_up",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+  {
+     "name": "middle finger  🖕",
+     "slug": "middle_finger",
+     "group": "People & Body",
+     "emoji_version": "1.0",
+     "unicode_version": "1.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+  {
+     "name": "backhand index pointing down  👇",
+     "slug": "backhand_index_pointing_down",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+    {
+     "name": "index pointing up ☝️",
+     "slug": "index_pointing_up",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+ {
+     "name": "index pointing at the viewer   🫵",
+     "slug": "index_pointing_at_the_viewer",
+     "group": "People & Body",
+     "emoji_version": "14.0",
+     "unicode_version": "14.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "14.0"
+   },
+   {
+     "name": "thumbs up  👍",
+     "slug": "thumbs_up",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+   {
+     "name": "thumbs down  👎",
+     "slug": "thumbs_down",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+   {
+     "name": "raised fist  ✊",
+     "slug": "raised_fist",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+    {
+     "name": "oncoming fist 👊",
+     "slug": "oncoming_fist",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+    {
+     "name": "left-facing fist🤛",
+     "slug": "left_facing_fist",
+     "group": "People & Body",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "3.0"
+   },
+   {
+     "name": "right-facing fist  🤜",
+     "slug": "right_facing_fist",
+     "group": "People & Body",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "3.0"
+   },
+   {
+     "name": "clapping hands  👏",
+     "slug": "clapping_hands",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+    {
+     "name": "raising hands 🙌",
+     "slug": "raising_hands",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+    {
+     "name": "heart hands 🫶",
+     "slug": "heart_hands",
+     "group": "People & Body",
+     "emoji_version": "14.0",
+     "unicode_version": "14.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "14.0"
+   },
+    {
+     "name": "open hands 👐",
+     "slug": "open_hands",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+    {
+     "name": "palms up together 🤲",
+     "slug": "palms_up_together",
+     "group": "People & Body",
+     "emoji_version": "5.0",
+     "unicode_version": "5.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "5.0"
+   },
+   {
+     "name": "handshake 🤝",
+     "slug": "handshake",
+     "group": "People & Body",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "14.0"
+   },
+    {
+     "name": "folded hands 🙏",
+     "slug": "folded_hands",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+   {
+     "name": "writing hand ✍️",
+     "slug": "writing_hand",
+     "group": "People & Body",
+     "emoji_version": "0.7",
+     "unicode_version": "0.7",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+   {
+     "name": "nail polish 💅",
+     "slug": "nail_polish",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+    {
+        
+     "name": "selfie 🤳",
+     "slug": "selfie",
+     "group": "People & Body",
+     "emoji_version": "3.0",
+     "unicode_version": "3.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "3.0"
+   },
+    {
+     "name": "flexed biceps 💪",
+     "slug": "flexed_biceps",
+     "group": "People & Body",
+     "emoji_version": "0.6",
+     "unicode_version": "0.6",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "1.0"
+   },
+    {
+     "name": "mechanical arm 🦾",
+     "slug": "mechanical_arm",
+     "group": "People & Body",
+     "emoji_version": "12.0",
+     "unicode_version": "12.0",
+     "skin_tone_support": false
+   },
+   {
+     "name": "mechanical leg 🦿",
+     "slug": "mechanical_leg",
+     "group": "People & Body",
+     "emoji_version": "12.0",
+     "unicode_version": "12.0",
+     "skin_tone_support": false
+   },
+    {
+     "name": "leg 🦵",
+     "slug": "leg",
+     "group": "People & Body",
+     "emoji_version": "11.0",
+     "unicode_version": "11.0",
+     "skin_tone_support": true,
+     "skin_tone_support_unicode_version": "11.0"
+   }]
