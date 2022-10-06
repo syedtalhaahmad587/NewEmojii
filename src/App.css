@@ -39,12 +39,21 @@
 
 
 .reflected p {
-  background-color: yellow;
-  border: 2px solid yellow;
+ 
   padding: 20px 20px;
   border-radius: 5px;
   margin: 32px auto;
   
+}
+
+.data {
+  margin: 10px;
+  text-align: center;
+  padding: 20px;
+  background-color: yellow;
+  border: 2px solid yellow;
+  border-radius: 20px;
+  align-items: center;
 }
 
 .container {

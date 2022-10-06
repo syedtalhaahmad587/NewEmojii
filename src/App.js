@@ -15,7 +15,7 @@ function App() {
     const keyword = e.target.value;
     if (keyword !== '') {
       const results = Data.filter((user) => {
-        return user.name.toLowerCase().startsWith(keyword.toLowerCase());
+        return user.name.toLowerCase().includes(keyword);
 
       });
       setFoundUsers(results);
@@ -36,15 +36,15 @@ function App() {
         placeholder="Filter"
       />
       <div className="container">
+      <div className='row mt-5 d-flex align-item-center justify-content-between' >
         {foundUsers && foundUsers.length > 0 ? (
           foundUsers.map((item) => (
-            <div className='reflected'>
-                    <p className='col-lg-3 col-md-4 col-sm-2 col-xs-6' key={item.id}>{item.name}</p>
-        </div>
+                    <div className='col-lg-3 col-md-4 col-sm-2 col-xs-6 data' key={item.id}>{item.name}</div>
           ))
-        ) : (
+        ) : ( 
           <h1>No results found!</h1>
         )}
+        </div>
       </div>
     </div>
   );
