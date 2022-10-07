@@ -36,7 +36,7 @@ function App() {
         placeholder="Filter"
       />
       <div className="container">
-      <div className='row mt-5 d-flex align-item-center justify-content-between' >
+      <div className='row mt-5 d-flex align-item-center justify-content-center' >
         {foundUsers && foundUsers.length > 0 ? (
           foundUsers.map((item) => (
                     <div className='col-lg-3 col-md-4 col-sm-2 col-xs-6 data' key={item.id}>{item.name}</div>
